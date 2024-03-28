@@ -13,7 +13,13 @@ print(100<4)
 
 nombre_alumno_a = "Jose"
 nombre_alumno_b = "Alexander"
+
+# = -> Asignar un valor a una variable
+# == -> Sirver para hacer una comparacion de igualdad entre dos valores
+
 print(nombre_alumno_a == nombre_alumno_b)
 
 #La clase bool es una clase hija de la clase int
 print(10 + True)
+
+#Siguiente tema es condicionales "if 10 > 2"

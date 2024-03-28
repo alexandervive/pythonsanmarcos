@@ -11,5 +11,6 @@ print(type(medicion_pared))
 print(interes)
 print(type(interes))
 
+print('')
 numero_decimal_grande = 0.0000000000000000000001
 print(numero_decimal_grande)

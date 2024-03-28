@@ -33,5 +33,7 @@ ecuacion = (40-5*4)*2-4**2
 # 24
 print(ecuacion)
 
+#Para la poteniacion no iremos de derecha a izquierda
+#Se debe operar de derecha a izquierda
 potencias = 2 ** 2 ** 3
 print(potencias)

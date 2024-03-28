@@ -61,3 +61,4 @@ print("El indice de pais en -4 es: ", pais[-4])
 print(len(pais))
 
 #slicing/ cortes
+#El indice del lado derecho posterior a los dos puntos, es el indice limite del corte el cual no sera agregado
