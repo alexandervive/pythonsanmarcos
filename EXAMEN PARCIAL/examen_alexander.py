@@ -157,7 +157,7 @@ OPCION 3
 ===============================================
 """
 def m3_actualizar_salario_empleado():
-    """Updates the salary of a worker based on their ID and a provided raise amount."""
+    """Actualiza el sueldo de un trabajador en base al ID y se ingresa un aumento."""
     if not trabajadores:
         print("\n>>> No se han agregado trabajadores.")
         return  # Sale de la funcion si no existen trabajadores
